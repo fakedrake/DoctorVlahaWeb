@@ -1,5 +1,7 @@
 # Developer Notes
 
+[ ![Codeship Status for fakedrake/DoctorVlahaWeb](https://codeship.com/projects/cd152d70-4ffc-0132-86b2-263393a504fa/status)](https://codeship.com/projects/47949)
+
 To have the site with a sample database run:
 
 	$ virtualenv --no-site-packages py
