@@ -6,6 +6,7 @@ To have the site with a sample database run:
 
 	$ virtualenv --no-site-packages py
 	$ . ./py/bin/activate
+	$ pip install -r requirements.txt
 	$ python manage.py syncdb --all
 	<Fill in with your local instance details>
 	$ python manage.py migrate --fake
