@@ -1,0 +1,6 @@
+* Tools
+
+  - [[https://daneden.github.io/animate.css/][animate.css]]
+  - [[http://bootsnipp.com/?page=4][Bootstrap snippets]]
+  - [[http://bootswatch.com/][Bootswathch]] for [[https://github.com/no-dice/django-bootstrap-themes][django]]
+  - [[http://www.layoutit.com/][Layoutit]] for dragndrop bootstrap layouts
