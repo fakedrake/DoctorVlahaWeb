@@ -1,2 +1,6 @@
 *.db
 *.pyc
+py/
+GTAGS
+GRTAGS
+GPATHx
